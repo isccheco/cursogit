@@ -1,2 +1,2 @@
 # cursogit
-es un repositorio de un curso de git
+Esto es una una modificacion del git
